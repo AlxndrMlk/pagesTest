@@ -1,7 +1,18 @@
-h1, nav {
+h1 {
   font-family: Arial;
+}
+
+nav, a {
+  font-family: Arial;
+  font-size: 24px;
   background-color: #4286f4;
-  color: white;}
+  color: white;
+}
   
 h2 {
-  text-align: center;}
+  text-align: center;
+}
+
+a:hover {
+    background-color: #6da5ff;
+}
